@@ -1,3 +1,6 @@
+### zsh 常用命令
+
+```
 alias ga="git add"
 alias gbd="git branch -D"
 alias gs="git status"
@@ -17,3 +20,5 @@ alias gl="git log --pretty='format:%Cgreen%h%Creset %an - %s' --graph"
 alias gpom="git pull origin master"
 alias gcd='cd "`git rev-parse --show-toplevel`"'
 alias myip="ipconfig getifaddr en0"
+
+```
